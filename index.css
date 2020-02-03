@@ -27,6 +27,7 @@ input[type=text], input[type=password] {
 hr{
   border: 1px solid black;
   margin-bottom: 25px;
+  margin-top: 25px;
 }
 .content {
   max-width: 500px;
@@ -39,5 +40,5 @@ textarea{
   width:100%;
   margin-top:30px;
   border: 2px solid black;
-  border-radius: 10%;
+  
 }
