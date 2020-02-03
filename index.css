@@ -39,4 +39,5 @@ textarea{
   width:100%;
   margin-top:30px;
   border: 2px solid black;
+  border-radius: 10%;
 }
